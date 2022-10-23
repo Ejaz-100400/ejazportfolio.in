@@ -948,6 +948,22 @@ textarea{
     width:50%;
 
 }
+.contact-content{
+    color:white;
+    text-align: center;
+    padding:15px;
+}
+.contact-content h1{
+    font-size:4rem;
+    color:rgb(255, 235, 20);
+    padding:20px 0px;
+    
+}
+.contact-content blockquote{
+    font-size:2rem;
+    background-color: #191717;
+    border-radius: 20px;
+}
 .icon-details{
     background-color:#ededed;
     width:100%;
