@@ -961,7 +961,7 @@ textarea{
     border:2px solid yellow;
     cursor:pointer;
 }
-.contact-content{
+/* .contact-content{
     color:white;
     text-align: center;
     padding:15px;
@@ -976,7 +976,7 @@ textarea{
     font-size:2rem;
     background-color: #191717;
     border-radius: 20px;
-}
+} */
 .icon-details:hover{
     background-color:yellow;
 }
